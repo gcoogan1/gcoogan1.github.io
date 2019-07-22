@@ -29,3 +29,10 @@ h1{
 
 
 
+#mc_embed_signup form {
+	text-align: center;
+}
+
+#mc_embed_signup_scroll{
+	text-align: -webkit-center;
+}
